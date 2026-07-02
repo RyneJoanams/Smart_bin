@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "author": "Ryne", //your preffered name. this is who authors the project.
+  "editor": "wokwi", //name of the application that was used to edit the file.
+  "parts": [],
+  "connections": [],
+  "dependencies": {}
+}
